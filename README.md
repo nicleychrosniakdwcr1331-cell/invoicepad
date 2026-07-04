@@ -1,7 +1,18 @@
-# invoicepad.com
+# invoicepad
 
-Free Invoice Template Generator - Built with AI
+Free invoice generator. Custom logo, colors, tax, PDF download.
 
-🌐 **[invoicepad.com](https://invoicepad.com)** - Free online tool. No sign-up required.
+## Try It
 
-Built with AI · 0 coding experience · Day 122 #buildinpublic
+[https://invoicepad.net](https://invoicepad.net)
+
+## Features
+- 100% browser — no uploads
+- Completely free — no sign-up, no ads
+- Privacy-first — data stays on your device
+
+## Tech
+Next.js · Cloudflare Pages
+
+---
+Part of [Gavin Builds](https://github.com/Gavin1901) free tools.
